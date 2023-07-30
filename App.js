@@ -100,7 +100,7 @@ const style = StyleSheet.create({
   category:{
     color:'white',
     fontSize:20,
-    marginLeft:120,
+    marginLeft:140,
     marginVertical:10,
     
   },
@@ -151,7 +151,7 @@ const style = StyleSheet.create({
     color:'red',
   },
   selectButton:{
-    marginLeft:100,
+    marginLeft:125,
   }
  
 
